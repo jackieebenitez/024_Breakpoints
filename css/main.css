@@ -1,0 +1,17 @@
+@media screen and (min-width: 0px) and (max-width: 500px) {
+    .orange {
+     background: yellow;
+         }
+    }
+
+@media screen and (min-width: 501px) and (max-width: 1000px) {
+   .orange {
+     background: pink;
+         }
+    }
+
+@media screen and (min-width: 1001px) and (max-width: 1400px) {
+   .orange {
+     background: #f08181;
+         }
+    }
